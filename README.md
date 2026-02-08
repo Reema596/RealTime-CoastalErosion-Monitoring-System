@@ -121,14 +121,28 @@ This project leverages **AWS IoT and serverless architecture** to collect, proce
 
 ---
 ## 📸 Project Snapshot 📌 
-*Architecture diagram and system flow available below* *(See snapshot section once added)*
+*Architecture diagram and system flow available below* 
+<p align="center">
+  <img src="https://github.com/Reema596/RealTime-CoastalErosion-Monitoring-System/blob/main/Sample.png" 
+       alt="Real-Time Coastal Erosion Monitoring System Architecture" 
+       width="850"/>
+</p>
+
+<p align="center">
+  <em>High-level architecture of the Real-Time Coastal Erosion Monitoring System using AWS IoT and Serverless services</em>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-IoT_Core-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/AWS-Lambda-orange?style=for-the-badge&logo=aws-lambda"/>
+  <img src="https://img.shields.io/badge/AWS-DynamoDB-orange?style=for-the-badge&logo=amazondynamodb"/>
+  <img src="https://img.shields.io/badge/AWS-CloudWatch-orange?style=for-the-badge&logo=amazonaws"/>
+</p>
+
 ---
-
 ## 👤 Author
-
 **Reema** 
-☁️ Cloud Engineer  
 
+☁️ Cloud Engineer  
 🔗 GitHub: https://github.com/Reema596  
 🔗 LinkedIn: https://www.linkedin.com/in/reema12/
 
